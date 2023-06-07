@@ -1,0 +1,10 @@
+RS_BME280	KEYWORD1
+init		KEYWORD1
+getSensor	KEYWORD2
+getEvent	KEYWORD2
+readTemperature		KEYWORD2
+readPressure	KEYWORD2
+readHumidity	KEYWORD2
+getTemperatureCompensation	KEYWORD2
+setTemperatureCompensation	KEYWORD2
+setSampling	KEYWORD2
